@@ -1,2 +1,2 @@
-# Onimai OS
-##  (Incipient state)
+# Onimai OS     (Incipient state)
+
