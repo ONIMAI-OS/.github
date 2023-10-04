@@ -10,5 +10,5 @@ _**ENG**_ Our goal: to create a user-friendly and beautiful distro that Onimai f
 _**RUS**_ Наша цель: создать удобный и красивый дистрибутив, который понравится поклонникам Onimai, а может быть, и самому Nekotofu. Более того, мы сами будем пользоваться этим дистрибутивом. *Это также первый опыт создания дистрибутивов Linux для SPAWNRYS*
 ** **
 **Links**
-- Telegram: mahiro.ru
+- Telegram: https://mahiro.ru
 - _That's all for now_
