@@ -1,4 +1,9 @@
-# Onimai OS     (Incipient state)
+<div align="center">
+   <img src="https://git.arlcrow.site/Onimai-OS/Onimai-OS/raw/branch/main/logo.png" width="600px" style="margin:auto;"/>
+
+# (Incipient state)
+<div align="left">
+
 _**ENG**_: Linux distribution based on Nyarch Linux and dedicated to the anime and manga "Onii-chan wa Oshimai"
 
 _**RUS**_: Дистрибутив Linux, основанный на Nyarch Linux и посвященный аниме и манге "Onii-chan wa Oshimai". 
