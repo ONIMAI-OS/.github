@@ -17,3 +17,17 @@ _**RUS**_ Наша цель: создать удобный и красивый �
 **Links**
 - Telegram: https://mahiro.ru
 - ALT GIT: https://git.arlcrow.site/Onimai-OS **(With fresh updates!)**
+
+<div align="center">
+
+# NEWS
+
+<div align="left">
+
+## 09.10.2023
+Archiso refuses to build, I'm going to have to start from zero and redo it all over again
+![image](https://github.com/ONIMAI-OS/.github/assets/68144848/9c1b679a-39f7-466b-8856-d70087a09bfa)
+
+<div align="right">
+
+SPAWNRYS
