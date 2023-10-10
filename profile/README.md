@@ -24,6 +24,15 @@ _**RUS**_ Наша цель: создать удобный и красивый �
 
 <div align="left">
 
+## 10.10.2023 06:18 MSK
+I was able to make a working archiso, all that's left is to remove the interfering packages.  I also upgraded Gnome to version 45.0 last night, so many features will be missing at the start. I plan to add my Grub theme today.
+
+<div align="right">
+
+SPAWNRYS
+
+<div align="left">
+
 ## 09.10.2023
 Archiso refuses to build, I'm going to have to start from zero and redo it all over again
 ![image](https://github.com/ONIMAI-OS/.github/assets/68144848/9c1b679a-39f7-466b-8856-d70087a09bfa)
