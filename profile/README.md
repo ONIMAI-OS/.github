@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://git.arlcrow.site/Onimai-OS/Onimai-OS/raw/branch/main/logo.png" width="600px" style="margin:auto;"/>
+   <img src="[https://git.arlcrow.site/Onimai-OS/Onimai-OS/raw/branch/main/logo.png](https://git.arlcrow.site/Onimai-OS/Onimai-OS/raw/branch/main/onimai_logo.png)" width="600px" style="margin:auto;"/>
 
 # (Incipient state)
 <div align="left">
