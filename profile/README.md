@@ -24,6 +24,15 @@ _**RUS**_ Наша цель: создать удобный и красивый �
 
 <div align="left">
 
+## 31.10.2023 20:05 MSK
+I was finally able to build archiso. So far, the system is VERY raw. Hopefully by the new year I'll be able to get it done
+
+<div align="right">
+
+SPAWNRYS
+
+<div align="left">
+
 ## 10.10.2023 06:18 MSK
 I was able to make a working archiso, all that's left is to remove the interfering packages.  I also upgraded Gnome to version 45.0 last night, so many features will be missing at the start. I plan to add my Grub theme today.
 
