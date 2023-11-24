@@ -1,7 +1,7 @@
 <div align="center">
    <img src="https://github.com/ONIMAI-OS/.github/blob/main/onimai_logo.png?raw=true" width="600px" style="margin:auto;"/>
 
-# ALPHA 0.0.1
+# Minato ALPHA 0.7
 <div align="left">
 
 _**ENG**_: Linux distribution based on Nyarch Linux and dedicated to the anime and manga "Onii-chan wa Oshimai"
