@@ -16,4 +16,4 @@ _**RUS**_ Наша цель: создать удобный и красивый �
 ** **
 **Links**
 - Telegram: https://mahiro.ru
-- ALT GIT: https://git.arlcrow.site/Onimai-OS **(With fresh updates!)**
+- ALT GIT: https://onimai.ru/Onimai-OS **(With fresh updates!)**
